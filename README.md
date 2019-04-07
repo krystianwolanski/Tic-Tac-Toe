@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 Gra w kółko krzyżyk. Komputer w niektórych sytuacjach może przegrać.
 
-![alt text](photo.PNG)
-
+<p>
 <img src="photo.PNG">
+</p>
