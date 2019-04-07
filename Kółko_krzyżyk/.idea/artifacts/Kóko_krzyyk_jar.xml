@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kółko_krzyżyk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kóko_krzyyk_jar</output-path>
+    <root id="archive" name="Kółko_krzyżyk.jar">
+      <element id="module-output" name="Kółko_krzyżyk" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Krystiana/fontawesomefx-8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

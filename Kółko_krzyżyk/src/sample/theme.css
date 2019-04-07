@@ -1,0 +1,22 @@
+
+.root{
+    -fx-background-color: #00695C;
+}
+.button:disabled{
+    -fx-opacity:1;
+
+}
+.FontAwesomeIconView:hover{
+
+}
+
+.button{
+    -fx-background-color:  #26A69A;
+    -fx-background-radius: 0;
+    -fx-border-color: white;
+    -fx-border-radius: 0;
+    -fx-cursor: hand;
+}
+.button:hover{
+    -fx-background-color:  #00796B;
+}
